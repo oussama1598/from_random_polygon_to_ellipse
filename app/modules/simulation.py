@@ -6,7 +6,7 @@ from manimlib.imports import *
 class Simulation(VGroup):
     CONFIG = {
         'number_of_vertices': 10,
-        'max_iterations_count': 30,
+        'max_iterations_count': 25,
         'speed_up_at': 3,
         'speed_up_to': .2,
         'zoom_at': 10,
